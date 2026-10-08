@@ -20,6 +20,5 @@ PCA-Asteroid-Taxonomy/
 │   ├── 03_asteroids.csv
 │   └── README.md
 ├── results/
-│   ├── tables/
 │   └── figures/
 └── LICENSE
