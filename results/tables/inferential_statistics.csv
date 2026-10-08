@@ -1,0 +1,4 @@
+analysis,statistic,p_value,effect,effect_value
+Mann-Whitney U: maximum F1 distributions,340.0,0.08947687000070689,rank-biserial,-0.2952380952380953
+"Spearman: class size vs maximum F1, Bus-Binzel",-0.04005393730277539,0.8492366507847209,rho,-0.04005393730277539
+"Spearman: class size vs maximum F1, DeMeo",0.41636897291793445,0.06044975182565565,rho,0.41636897291793445

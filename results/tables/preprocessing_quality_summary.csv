@@ -1,0 +1,3 @@
+dataset,raw_samples,final_samples,raw_channels,final_channels,missing_initial,missing_before_interpolation_after_row_filter,missing_after_interior_interpolation,removed_spectra,removed_channels
+Bus-Binzel VIS,1335,1312,197,185,11271,10743,416,23,12
+DeMeo VIS-NIR,2596,2596,53,53,0,0,0,0,0
