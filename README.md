@@ -1,8 +1,16 @@
 # PCA-Asteroid-Taxonomy
 
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)
+![PCA + KMeans](https://img.shields.io/badge/PCA-KMeans-8A2BE2)
+![Springer](https://img.shields.io/badge/Springer-Book_Chapter-0077B5)
+![Publication Status](https://img.shields.io/badge/Publication-In_Preparation-orange)
+
 This repository contains the code, data organization, processed outputs, and figures associated with the study:
 
 **Assessing PCA as a Baseline for Asteroid Spectral Classification: Robustness, Unsupervised Comparisons, and Quantum-Inspired Perspectives**
+
+Book chapter prepared for publication with Springer.
 
 ## Abstract
 
